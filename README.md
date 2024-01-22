@@ -1,5 +1,13 @@
 # Ex-2: Computational Derivation and Matrix Multiplication
 
+# Submission screenshots
+1. Local test pass
+![Alt text](<locally_test_passed.png>)
+2. Commit pass
+![Alt text](<commit_passed.png>)
+3. Remote test pass
+![Alt text](<remotely_test_passed.png>)
+
 ## Overview
 In this exercise, you will practice computational derivation and matrix multiplication.
 
